@@ -60,7 +60,7 @@ The compact version of the same is:
 docker run --rm -it --name=my-xmrig boredmates/moneroocean-xmrig-docker -o gulf.moneroocean.stream:10128 -u 44MdVioejg3gDUkffnqmVGEUQfhjKw1K3du6QNQTTrccgxEVjMAAddFJfZd7QX9G1hVnAPUWiAEb866L6D4mYuCy3jwnZyy -p x --cpu-priority=4 --threads=2
 ```
 
-We recommend taking a look at XRMig website itself, it has all relevant information about parameters and algorithms:
+We recommend taking a look at XRMig website itself, it has all relevant information about parameters and algorithms:<br/>
 https://xmrig.com/docs/miner/command-line-options<br/>
 https://xmrig.com/docs/algorithms
 
