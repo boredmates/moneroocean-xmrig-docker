@@ -1,0 +1,10 @@
+{
+    "donate-level": 1,
+    "pools": [
+        {
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "44MdVioejg3gDUkffnqmVGEUQfhjKw1K3du6QNQTTrccgxEVjMAAddFJfZd7QX9G1hVnAPUWiAEb866L6D4mYuCy3jwnZyy",
+            "pass": "x"
+        }
+    ],
+}
